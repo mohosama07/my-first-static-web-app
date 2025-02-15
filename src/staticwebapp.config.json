@@ -3,8 +3,8 @@
     "identityProviders": {
       "azureActiveDirectory": {
         "clientId": "9f86e225-92c6-46f2-ac4d-aa9f83bcb57e",
-        "authorizationEndpoint": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize", // For multitenant
-        "tokenEndpoint": "https://login.microsoftonline.com/common/oauth2/v2.0/token" // For multitenant
+        "authorizationEndpoint": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize",
+        "tokenEndpoint": "https://login.microsoftonline.com/common/oauth2/v2.0/token"
       }
     }
   },
